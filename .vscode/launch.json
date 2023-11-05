@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\teht2.js",
+      "program": "${workspaceFolder}\\teht3.js",
       "console": "integratedTerminal"
     }
   ]
